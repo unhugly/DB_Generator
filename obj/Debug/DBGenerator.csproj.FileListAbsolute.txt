@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\DBGenerator\DBGenerator\bin\Debug\DBGenerator.exe.config
+C:\Users\user\source\repos\DBGenerator\DBGenerator\bin\Debug\DBGenerator.exe
+C:\Users\user\source\repos\DBGenerator\DBGenerator\bin\Debug\DBGenerator.pdb
+C:\Users\user\source\repos\DBGenerator\DBGenerator\obj\Debug\DBGenerator.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DBGenerator\DBGenerator\obj\Debug\DBGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\DBGenerator\DBGenerator\obj\Debug\DBGenerator.Form1.resources
+C:\Users\user\source\repos\DBGenerator\DBGenerator\obj\Debug\DBGenerator.Properties.Resources.resources
+C:\Users\user\source\repos\DBGenerator\DBGenerator\obj\Debug\DBGenerator.csproj.GenerateResource.cache
+C:\Users\user\source\repos\DBGenerator\DBGenerator\obj\Debug\DBGenerator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DBGenerator\DBGenerator\obj\Debug\DBGenerator.exe
+C:\Users\user\source\repos\DBGenerator\DBGenerator\obj\Debug\DBGenerator.pdb
