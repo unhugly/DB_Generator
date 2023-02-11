@@ -9,3 +9,13 @@ C:\Users\user\source\repos\DBGenerator\DBGenerator\obj\Debug\DBGenerator.csproj.
 C:\Users\user\source\repos\DBGenerator\DBGenerator\obj\Debug\DBGenerator.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\DBGenerator\DBGenerator\obj\Debug\DBGenerator.exe
 C:\Users\user\source\repos\DBGenerator\DBGenerator\obj\Debug\DBGenerator.pdb
+C:\Users\user\source\repos\DBGenerator\DBGenerator\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\user\source\repos\DBGenerator\DBGenerator\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\user\source\repos\DBGenerator\DBGenerator\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\user\source\repos\DBGenerator\DBGenerator\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\user\source\repos\DBGenerator\DBGenerator\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\user\source\repos\DBGenerator\DBGenerator\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\user\source\repos\DBGenerator\DBGenerator\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\user\source\repos\DBGenerator\DBGenerator\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\user\source\repos\DBGenerator\DBGenerator\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\user\source\repos\DBGenerator\DBGenerator\obj\Debug\DBGenerator.csproj.CopyComplete
